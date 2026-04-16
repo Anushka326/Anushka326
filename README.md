@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Solutions+🤖;Open+Source+Enthusiast;GSSoC+2026+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CA6180&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Solutions+🤖;Open+Source+Enthusiast;GSSoC+2026+🚀" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Pise</h1>
@@ -46,8 +46,6 @@
 - 🔊 Integrated Text-to-Speech for visually impaired users  
 - ⚡ Built using CNN + NLP + Flask  
 
-🔗 **[View Project](https://github.com/your-repo-link)**
-
 ---
 
 ### 💰 SnapBudget (OCR Expense Tracker) 📊
@@ -57,7 +55,6 @@
 - 📉 Automatically categorizes expenses  
 - ⚡ Built with React + TypeScript  
 
-🔗 **[View Project](https://github.com/your-repo-link)**
 
 ---
 
@@ -85,7 +82,8 @@
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/anushka-p-978a8b327  
-- 💻 GitHub: https://github.com/Anushka326  
+- 💻 GitHub: https://github.com/Anushka326
+- 🌐 Email: anushkanpise@gmail.com
 
 ---
 
