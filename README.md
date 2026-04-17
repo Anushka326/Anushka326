@@ -1,3 +1,8 @@
+## 🌐 Portfolio
+🔗 https://self-portfolio-rho-ruby.vercel.app
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=CA6180&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Solutions+🤖;Open+Source+Enthusiast;GSSoC+2026+🚀" />
 </p>
@@ -75,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka326&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Anushka326theme=tokyonight&hide_border=true" />
 </p>
 
 ---
